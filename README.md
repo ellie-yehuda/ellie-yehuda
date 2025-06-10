@@ -20,7 +20,7 @@ I'm passionate about building products that bridge data, logic, and delightful u
 **[Restaurant Recommendation System](https://github.com/ellie-yehuda/rec-system)**  
 End-to-end system for personalized restaurant picks. I built a Python crawler to collect real TripAdvisor reviews, stored and queried data with MongoDB, and developed clustering and sentiment analytics to power recommendations.
 
-**MoodMate**  
+**[MoodMate](https://github.com/ellie-yehuda/moodmate)**  
 A mental-wellness chat companion running on FastAPI and Together.ai’s LLM. I integrated LangChain’s conversational memory to enable context-aware, supportive chats that nudge users toward healthy habits. 
 
 **Guaco**  
