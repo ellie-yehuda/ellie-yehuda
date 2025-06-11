@@ -23,7 +23,7 @@ End-to-end system for personalized restaurant picks. I built a Python crawler to
 **[MoodMate](https://github.com/ellie-yehuda/moodmate)**  
 A mental-wellness chat companion running on FastAPI and Together.ai’s LLM. I integrated LangChain’s conversational memory to enable context-aware, supportive chats that nudge users toward healthy habits. 
 
-**Guaco**  
+**[Guaco](https://github.com/ellie-yehuda/guaco)**  
 A gamified nutrition tracker that makes healthy eating fun. I designed the React/TypeScript UI (using shadcn/ui & Tailwind), implemented browser-based local storage for offline persistence, and created Python FastAPI microservices that use the OpenAI API to generate recipes and meal plans.
 
 ---
