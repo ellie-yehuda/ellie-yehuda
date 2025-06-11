@@ -11,7 +11,7 @@
 I'm passionate about building products that bridge data, logic, and delightful user experiences. I enjoy tackling full-stack challenges with Python and React, and I’m always looking to learn and grow as a developer.
 
 - **Specialties:** Python (FastAPI, Flask), React, MongoDB, TypeScript, HTML/CSS/JS  
-- **Interests:** Machine learning, cloud deployment, intuitive UI/UX
+- **Interests:** Full-Stack and Backend development, GenAI-powered applications, LLM's
 
 ---
 
